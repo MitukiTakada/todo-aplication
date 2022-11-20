@@ -1,0 +1,10 @@
+.link {
+  @apply hover:text-purple-400 transition-all duration-300;
+}
+.drawer-link {
+  @apply hover:text-purple-400 transition-all duration-300 text-xl block text-center my-3;
+}
+.contact-btn {
+  @apply bg-purple-400 font-bold text-xl px-3 py-2 rounded border hover:bg-purple-800 duration-300 transition-all 
+}
+

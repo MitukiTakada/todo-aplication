@@ -1,0 +1,6 @@
+.link {
+  @apply hover:text-purple-400 transition-all duration-300;
+}
+.contact-btn {
+  @apply bg-p
+}

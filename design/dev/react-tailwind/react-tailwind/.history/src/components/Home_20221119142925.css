@@ -1,0 +1,10 @@
+.home {
+  background-image: url(../images/mountain.jpeg);
+  background-position: center;
+  background-size: cover;
+  height: calc(100vh - 70px);
+  width: 100%;
+}
+.home h1 {
+  line-height: 100vh;
+}
